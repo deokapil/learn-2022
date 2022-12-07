@@ -1,4 +1,4 @@
-# This is for learning, teching, mentoring and referrence tech stacks
+# This is for learning, teching, mentoring and reference tech stacks
 
 ## Topics
 
